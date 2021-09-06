@@ -1,0 +1,3 @@
+npm i: Will install the dependencies.
+
+npm run json:server: Will start this server.

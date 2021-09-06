@@ -1,0 +1,14 @@
+{
+  "name": "my-local-server",
+  "version": "1.0.0",
+  "description": "Fake api for spriendsy",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "lylerogers <lylerogers8@gmail.com> (https://www.npmjs.com/?track=newUserCreated)",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
