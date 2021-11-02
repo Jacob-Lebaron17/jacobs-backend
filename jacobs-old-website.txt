@@ -1,0 +1,401 @@
+{
+  "Monday": [
+    {
+      "id": 1,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ],
+  "tuesday": [
+    {
+      "id": 1,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ],
+  "wednesday": [
+    {
+      "id": 1,
+      "checkBox": false,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ],
+  "thursday": [
+    {
+      "id": 1,
+      "checkBox": false,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ],
+  "friday": [
+    {
+      "id": 1,
+      "checkBox": false,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ],
+  "saturday": [
+    {
+      "id": 1,
+      "checkBox": false,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ],
+  "sunday": [
+    {
+      "id": 1,
+      "checkBox": false,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 2,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 3,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 4,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 5,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 6,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 7,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 8,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 9,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 10,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    },
+    {
+      "id": 11,
+      "checkBox": true,
+      "schedule": "Do the laundry today"
+    }
+  ]
+}

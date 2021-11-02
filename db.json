@@ -1,119 +1,32 @@
 {
-  "turtles" : [
+  "Days": [
     {
-      "id": "the turtles id",
-      "title": "The turtle title",
-      "description": "This is the turtles description here."
-    }
-  ],
-  "users": [
-    {
-      "id": "Lyle Rogers",
-      "password": "Liz",
-      "contactInfo": "Phone# 636 698 8561 Text me on WhatsApp or Facebook Messenger at Lyle Rogers.",
-      "inLebaron": true,
-      "friendly": true,
-      "business": "Making the world a better place., with love and guidense!\n",
-      "about": "We will always be one no matter the delusion.\n"
+      "id": "Monday",
+      "schedule": "zfvzdfiluy iuy oiuy iouy ioyuiu yuioy iouy iouy iuyoiuy iouy oiuy oiuyo iuyo iuyuio yuioy iouy oiuy oiuy iouy uiy oiuy oiuy oiuyo oui oiyu uioyioyuioy ouiyoiuyoi yuoyuioyuioy uioy\n\n\n\n\n yiy iouy oiuyuioy ioyu  yuio yiuo yioyioyuiouy oiy oiy oiuyuioy uioy io yioy uio yuiyuioyuio yyuio ui yuioyuioyuioy uy uiouioyui youi yuioy ouy uoi yiou ouiyuioy uioy uioy iy\n\n\n\n\n youiyuyuioy uio yuio yuioy uy ioy uioyuio y ui yuioyuio yxuiodyefuiogfsjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjdh\ngcr\ngv\n\nr\ngvf\nrcvyrguogvy tegfd f\nfg\ns df\n gsdf\ng\ndf \ngsd f\ngsdf\n g\nsdf\ngsd\nf gs\ndfg \nsdf g\nsdf g\nsdf\ngsd\nfg \nsdfg\n sdf\ng sd\nfg\n sdf\ng sd\nfg\ns df\n gd\n\n\n\ng\nfd g\nsd fgm\njsd f,\n"
     },
     {
-      "id": "Joshua Lebaron",
-      "password": "joshy2",
-      "contactInfo": "",
-      "inLebaron": true,
-      "friendly": false,
-      "business": "b retbh rtbw rtbyty tby tbn tnb ",
-      "about": "b yrtb uj uk uj rthrthrtger thgerther th"
+      "id": "Tuesday",
+      "schedule": "vjghjgh\n\ndfas dfasd f\nf\n\n\nasdfasd fasdfasd\n\n\nfasd fads f\n\n\n\nasdfasdf asdf"
     },
     {
-      "id": "Hector Herrera Bustillos",
-      "password": "dead pull",
-      "contactInfo": "",
-      "inLebaron": true,
-      "friendly": true,
-      "business": "erth rt rt gfhtyuyu tgh hert drhtdg h retyhfghdf",
-      "about": "trh dgh dgh dg dfghsdhsdyrtythrtj tyjydr"
+      "id": "Wednesday",
+      "schedule": ".mnjm"
     },
     {
-      "id": "Jenifer Spencer",
-      "password": "crystal girl",
-      "contactInfo": "",
-      "inLebaron": true,
-      "friendly": false,
-      "business": "q twerteryrtu tyiu ioiupjklj kl,.b m,vbfghjmdfhnfghfgh ",
-      "about": "h dfgh y ujyikurtuyj rtyhg rtyuy i8ifujkgh "
+      "id": "Thursday",
+      "schedule": "cgfjhfghjghcjcghjcg\nfddfgsdfg\n\n\ndfgsdfgsdfgsdfgsdf\n\n\n\n\n\nsdfgsdfgsdfgshgjhgjhgvjhvgjhgdfgsdfgdfgsdgsdg"
     },
     {
-      "id": "Auston Jones",
-      "password": "ripper",
-      "contactInfo": "",
-      "inLebaron": false,
-      "friendly": true,
-      "business": "g hg tjhjhjhjhjhuityhndt ghrt gh ertrt6 jhr6tuj ",
-      "about": " bnvbndfvbwergferh j gy jk g f g sdf gs d "
+      "id": "Friday",
+      "schedule": "JSON Server\nGitHub Sponsors\nMy JSON Server\nSupporters\nCongrats!\nYou're successfully running JSON Server\n✧*｡٩(ˊᗜˋ*)و✧*｡\n\nResources\n/Days 7x\nTo access and modify resources, you can use any HTTP method:\n\nGET POST PUT PATCH DELETE OPTIONS\n\n\n\njhfjhfjh"
     },
     {
-      "id": "Don Lebaron",
-      "password": "dony",
-      "contactInfo": "",
-      "inLebaron": true,
-      "friendly": false,
-      "business": " fsgehrth ryuj tyjkuyk dghb ty dg",
-      "about": "dtyuh dfghjhjk dfgcvbndgh fgh sdfgh"
+      "id": "Saturday",
+      "schedule": ""
     },
     {
-      "id": "Clayton Lebaron",
-      "password": "star trooper",
-      "contactInfo": "",
-      "inLebaron": false,
-      "friendly": false,
-      "business": " dsth gdh dgh dgdfgfgh dfghd fghdrtuytu eryutyui",
-      "about": " yjkuyjdfjh ghsthrt yjtyjhdfj "
-    },
-    {
-      "id": "Justin Lebaron",
-      "password": "Star Born!",
-      "contactInfo": "",
-      "inLebaron": false,
-      "friendly": false,
-      "business": "gh rthr tfghfghtyjk uyrtyje ghj jh",
-      "about": "j dyutyu eryy uftyj ghjk rtujfhh"
-    },
-    {
-      "id": "Mario Lebaron",
-      "password": "Luigi",
-      "contactInfo": "",
-      "inLebaron": false,
-      "friendly": false,
-      "business": "fghj uykrtujk rthjcfjngh jhg etyujtyuytu",
-      "about": "56788 78478 567343467 47 "
-    },
-    {
-      "id": "Annika Lebaron",
-      "password": "La flor",
-      "contactInfo": "",
-      "inLebaron": false,
-      "friendly": true,
-      "business": "73767 7356 ",
-      "about": " 67357 37tyuj tj564674 5"
-    },
-    {
-      "id": "Enoch Lebaron",
-      "password": "Dead people",
-      "contactInfo": "6367002634",
-      "inLebaron": true,
-      "friendly": false,
-      "business": "Programming. I will program",
-      "about": "I love WEED"
-    },
-    {
-      "id": "",
-      "password": "",
-      "contactInfo": "",
-      "inLebaron": false,
-      "friendly": false,
-      "business": "ghjkghjdfhj dfgh fdghd ghdfgh555",
-      "about": "88gyfg hsghs hdf ghgf "
+      "id": "Sunday",
+      "schedule": "         xnxfhjghjhjghjghjfghjghjghjgh jghjghjfgj"
     }
   ]
 }
